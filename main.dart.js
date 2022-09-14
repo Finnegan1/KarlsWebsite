@@ -65012,7 +65012,7 @@ A.rq.prototype={
 ad(){return new A.HN(B.k)}}
 A.HN.prototype={
 O(a){var s,r=null,q=t.w,p=a.I(q).f,o=a.I(q).f,n=a.I(q).f,m=a.I(q).f,l=a.I(q).f,k=t.p
-l=A.eA(n.a.b*0.5,A.bC(r,A.hk(B.aP,A.a([A.eA(0,A.U1(A.afT("assets/images/portraitS.jpeg"),B.ak,B.wk),r,r,0,0,0,r)],k),B.aM),r,r,m.a.b*0.5,r,r,l.a.a),r,r,0,0,0,r)
+l=A.eA(n.a.b*0.5,A.bC(r,A.hk(B.aP,A.a([A.eA(0,A.U1(A.afT("assets/images/portraitS-min.jpg"),B.ak,B.wk),r,r,0,0,0,r)],k),B.aM),r,r,m.a.b*0.5,r,r,l.a.a),r,r,0,0,0,r)
 m=a.I(q).f
 n=a.I(q).f
 s=a.I(q).f
@@ -65067,7 +65067,7 @@ A.x2.prototype={
 ad(){return new A.NJ(B.k)}}
 A.NJ.prototype={
 O(a){var s=null,r=t.w,q=a.I(r).f,p=a.I(r).f,o=a.I(r).f,n=a.I(r).f
-n=A.eA(0,A.bC(s,A.U1(new A.BJ(new A.t3(A.aj(102,0,0,0),B.w3),A.afT("assets/images/camera.jpg"),s),B.B,B.lh),s,B.wi,o.a.b,s,s,n.a.a),s,s,0,0,0,s)
+n=A.eA(0,A.bC(s,A.U1(new A.BJ(new A.t3(A.aj(102,0,0,0),B.w3),A.afT("assets/images/camera-min.jpg"),s),B.B,B.lh),s,B.wi,o.a.b,s,s,n.a.a),s,s,0,0,0,s)
 r=a.I(r).f
 return A.bC(s,A.hk(B.aP,A.a([n,A.eA(0,A.bC(s,s,s,new A.e9(s,s,s,s,s,new A.mu(B.l7,B.f5,B.ct,A.a([A.aj(0,0,0,0),A.aj(B.d.be(229.5),0,0,0)],t.t_),s,s),B.b0),r.a.b*0.4,s,s,s),s,s,0,0,s,s)],t.p),B.aM),s,s,q.a.b,s,s,p.a.a)}}
 A.jF.prototype={
