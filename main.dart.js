@@ -69836,7 +69836,7 @@ l=a.J(p).f
 m=a.J(p).f
 s=a.J(p).f
 r=a.J(p).f
-r=A.dU(l.a.b*0.01,A.hC(new A.ul("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet.",A.aF(a).RG.y.tX(60),5,1,B.dy,!0,B.dz,q),q,q),q,q,m.a.a*0.1,s.a.a*0.1,r.a.b*0.58,q)
+r=A.dU(l.a.b*0.05,A.hC(new A.ul("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet.",A.aF(a).RG.y.tX(60),5,1,B.dy,!0,B.dz,q),q,q),q,q,m.a.a*0.1,s.a.a*0.1,r.a.b*0.58,q)
 s=a.J(p).f
 return A.bI(q,A.hi(B.aL,A.a([k,r,A.dU(a.J(p).f.a.b*0.43,A.hC(A.bI(q,A.kX(A.a([A.vx(A.n6(A.eL("About",q,q,q,q,q,q,q,A.aF(a).RG.a.eJ(B.i),q,q,q),B.w,B.dL),B.fT,5),A.vx(A.bI(q,q,q,q,q,q,q,q),B.fT,1),A.vx(A.n6(A.eL("Me",q,q,q,q,q,q,q,A.aF(a).RG.a,q,q,q),B.w,B.dL),B.fT,5)],j),B.aW,B.ti,B.ap),q,q,q,q,q,q),q,q),q,q,0,0,s.a.b*0.43,q)],j),B.aE),q,q,o.a.b,q,q,n.a.a)}}
 A.vp.prototype={
