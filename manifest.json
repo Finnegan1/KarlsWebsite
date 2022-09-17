@@ -1,6 +1,6 @@
 {
-    "name": "karl",
-    "short_name": "karl",
+    "name": "karls_website",
+    "short_name": "karls_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
